@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Profile from "./components/Profile";
 import AboutMe from "./components/AboutMe";
 import TechStack from "./components/TechStack";
-import ProjectsSection from "./components/Projectsection";
+import ProjectsSection from "./components/ProjectSection";
 import Footer from "./components/Footer";
 
 const App = () => {
