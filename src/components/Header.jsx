@@ -42,7 +42,7 @@ const Header = () => {
             <motion.img
               src={Girl}
               alt="Profile"
-              className="rounded-full w-20 h-20"
+              className="rounded-full w-24 h-24"
               whileHover={{ scale: 1.1 }}
               transition={{ type: "spring", stiffness: 400, damping: 10 }}
             />
